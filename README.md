@@ -1,16 +1,23 @@
-## Hi there 👋
+# cent
 
-<!--
-**centxyz/centxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools for connected systems, developer infrastructure, and Web3.
 
-Here are some ideas to get you started:
+My work spans Python, Go, TypeScript, networking, APIs, automation, and Ethereum tooling. I focus on software that is understandable, testable, and useful beyond the demo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+- [SolidityStackDiamond](https://github.com/centxyz/SolidityStackDiamond) — Solidity compiler API with queued jobs, diagnostics, artifacts, SSE events, and worker metrics.
+- [EtherNodeDiamond](https://github.com/centxyz/EtherNodeDiamond) — Ethereum JSON-RPC diagnostics and arbitrary-call CLI with retries and timeouts.
+- [CIDNest](https://github.com/centxyz/CIDNest) — Content-addressed storage with integrity verification and peer replication.
+- [ChainTelemetry](https://github.com/centxyz/ChainTelemetry) — Live CoinGecko market terminal with private browser-local portfolio tracking.
+- [APIVaultPlus](https://github.com/centxyz/APIVaultPlus) — Encrypted local API-secret broker with scoped tokens, rotation, expiry, and audit logs.
+- [KeywardenCLI](https://github.com/centxyz/KeywardenCLI) — Encrypted local CLI secret vault with password generation and safe reveal controls.
+
+## Stack
+
+`Python` · `Go` · `TypeScript` · `JavaScript` · `Solidity` · `Next.js` · `FastAPI` · `Redis` · `WebSockets` · `Ethereum JSON-RPC`
+
+## Links
+
+- Portfolio: [cent.dev](https://cent.dev)
+- Email: [vescentholding@gmail.com](mailto:vescentholding@gmail.com)
