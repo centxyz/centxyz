@@ -6,7 +6,7 @@ My work spans Python, Go, TypeScript, networking, APIs, automation, and Ethereum
 
 ## Featured work
 
-- [SolidityStackDiamond](https://github.com/centxyz/SolidityStackDiamond) — Solidity compiler API with queued jobs, diagnostics, artifacts, SSE events, and worker metrics.
+- [SolcQueue](https://github.com/centxyz/SolcQueue) — Solidity compiler API with queued jobs, diagnostics, artifacts, SSE events, and worker metrics.
 - [RPCSurveyor](https://github.com/centxyz/RPCSurveyor) — Ethereum JSON-RPC diagnostics and arbitrary-call CLI with retries and timeouts.
 - [CIDNest](https://github.com/centxyz/CIDNest) — Content-addressed storage with integrity verification and peer replication.
 - [ChainTelemetry](https://github.com/centxyz/ChainTelemetry) — Live CoinGecko market terminal with private browser-local portfolio tracking.
